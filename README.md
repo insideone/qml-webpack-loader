@@ -1,6 +1,6 @@
 # qml-webpack-loader
 
-Instructs webpack to emit the required qml as json
+Instructs webpack to emit the required qml as json provided by [qmlweb-parser](https://github.com/qmlweb/qmlweb-parser)
 
 ## Install
 
