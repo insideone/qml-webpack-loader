@@ -12,7 +12,7 @@
     "json"
   ],
   "dependencies": {
-    "loader-utils": "^1.1.0",
+    "loader-utils": "^3.2.1",
     "qmlweb-parser": "^0.3.4",
     "recursive-iterator": "^3.3.0"
   },
